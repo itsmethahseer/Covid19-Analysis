@@ -1,5 +1,5 @@
 # Covid-19 Analysis Project
-
+![Screenshot 2023-10-12 210732](https://github.com/itsmethahseer/Covid19-Analysis/assets/120078997/8c16a93f-3e4f-4444-851e-de37166ddda5)
 This repository contains a Covid-19 data analysis project using datasets obtained from Kaggle. The project leverages Microsoft Power BI to create informative reports and a comprehensive dashboard for visualizing Covid-19 statistics. The datasets used include `day_wise.csv`, `usa_country_wise.csv`, and `worldometer_data.csv`, which were downloaded from Kaggle.
 
 ## Project Structure
@@ -43,4 +43,4 @@ The reports included in the Power BI project cover various aspects of Covid-19 s
 ## Dashboard
 
 The main dashboard provides a consolidated view of key Covid-19 metrics, allowing for easy comparison and understanding of the overall impact.
-![Screenshot 2023-10-12 210732](https://github.com/itsmethahseer/Covid19-Analysis/assets/120078997/8c16a93f-3e4f-4444-851e-de37166ddda5)
+
